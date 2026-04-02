@@ -47,9 +47,9 @@ Python Developer | DSP Enthusiast | Problem Solver
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitakuz3in&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikitakuz3in&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakuz3in&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikitakuz3in&theme=github_dark)
 
 </div>
 
